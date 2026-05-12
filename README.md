@@ -1,4 +1,6 @@
 <h2 align="left">seja bem vindo ao meu GitHub!!</h2>
+<h3 aling="left">faço curso de desenvolvimento de sistemas, estou aprendendo a linguagem HTML, CSS, JAVA SCRIPT, PYTHON </h2>
+<h4 aling="left">meu robi é joga bola </h4>
 
 ###
 
